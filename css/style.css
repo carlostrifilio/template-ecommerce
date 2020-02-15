@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Sriracha', cursive;
+}
+
+.carousel-item{
+    max-height: 35vh;
+    overflow: hidden;
+}
